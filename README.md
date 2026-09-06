@@ -45,7 +45,7 @@ The form allows students to enter their personal information, select their cours
 ## 📂 Project Structure
 
 ```text
-02-college-event-registration/
+HTML
 │
 ├── index.html
 └── README.md
